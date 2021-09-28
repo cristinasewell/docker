@@ -127,7 +127,7 @@ docker container ls [OPTIONS]
     - only needs one kernel
 - You can use control groups 
 - Isolated
-- You can write your code, deploy it in a docker container and knwo that it works everywhere.
+- You can write your code, deploy it in a docker container and know that it works everywhere.
     - you can place everything that you need for your code in that container
     - so when you give your code to somebody else, you can give them the container with all dependencies and settings
 - micro-services:
@@ -147,7 +147,7 @@ https://www.youtube.com/watch?v=eGz9DS-aIeY
 - Follow these steps for Docker
 https://docs.docker.com/desktop/windows/wsl/
 
-- On your WSL2 system check docker verison
+- On your WSL2 system check docker version
 
 ```bash
 docker --version
